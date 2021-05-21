@@ -6,6 +6,3 @@ module.exports = merge(prodEnv, {
 })
 
 
-function f() {
-  alert("hello, world!")
-}
